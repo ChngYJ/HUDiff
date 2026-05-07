@@ -26,5 +26,8 @@ python stage1_main.py --data_name ETTm1 --data_path ETTm1.csv --enc_in 7 --seq_l
 python stage2_main.py --data_name ETTm1 --data_path ETTm1.csv --enc_in 7  --seq_len 96 --pred_len 96 
 ```
 
+## Acknowledgements
+
+We are very grateful to all the reviewers for taking the time to help us review the paper！
 
 

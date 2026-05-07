@@ -21,9 +21,9 @@ The datasets can be download from [Google Drive](https://drive.google.com/file/d
 Train and evaluate the model; see `./scripts/` for more examples.
 
 ```bash
-python stage1_main.py --data_name ETTm1 --data_path ETTm1.csv --enc_in 7 --seq_len 96 --pred_len 96 
+python stage1_main.py --data_name ETTm1 --seq_len 96 --pred_len 96 
 
-python stage2_main.py --data_name ETTm1 --data_path ETTm1.csv --enc_in 7  --seq_len 96 --pred_len 96 
+python stage2_main.py --data_name ETTm1 --seq_len 96 --pred_len 96 
 ```
 
 ## Acknowledgements

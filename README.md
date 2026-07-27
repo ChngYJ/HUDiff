@@ -1,6 +1,5 @@
 # ✨ HUDiff 
 
-The repo is the official implementation for the paper: Heterogeneous Uncertainty-Informed Diffusion for Probabilistic Time Series Forecasting
 
 ## Overview
 

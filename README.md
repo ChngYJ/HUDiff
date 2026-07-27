@@ -16,15 +16,6 @@ pip install -r requirements.txt
 
 The datasets can be download from [Google Drive](https://drive.google.com/file/d/1l51QsKvQPcqILT3DwfjCgx8Dsg2rpjot/view?usp=drive_link) or [Baidu Cloud](https://pan.baidu.com/s/11AWXg1Z6UwjHzmto4hesAA?pwd=9qjr).
 
-## Usage
-
-Train and evaluate the model; see `./scripts/` for more examples.
-
-```bash
-python stage1_main.py --data_name ETTm1 --seq_len 96 --pred_len 96 
-
-python stage2_main.py --data_name ETTm1 --seq_len 96 --pred_len 96 
-```
 
 ## Acknowledgements
 
